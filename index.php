@@ -24,7 +24,7 @@
             <ul>
                 <li><a href="">Home</a></li>
                 <li><a href="Exam/CLE1 (Midterm)/index.php">Exam</a></li>
-                <li><a href="#">Activity</a></li>
+                <li><a href="https://glennsite.herokuapp.com/">Activity</a></li>
             </ul>
         </div>
     </header>
